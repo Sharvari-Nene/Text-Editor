@@ -10,11 +10,11 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 <img width="635" height="616" alt="open" src="https://github.com/user-attachments/assets/64e654a6-5c9a-4d84-ac5a-b20afb40ebc7" />
 
 # ✨ Key Features
-📄 File Operations: Open, Save and Exit text files.
+📄 File Operations: Create, Open, Save and Exit text files.
 
 ✂️ Clipboard Actions: Standard Cut, Copy, and Paste functionality.
 
-✍️ Text Manipulation: Select All, Word Wrap, and Font customization (change family, style, and size).
+✍️ Text Manipulation: Select All and Font customization (change family, style, and size).
 
 🎨 Theme Customization: Change the font colors.
 
@@ -32,7 +32,7 @@ Java Development Kit (JDK) 11 or higher must be installed on your system.
 (If using JavaFX) JavaFX SDK must be configured in your IDE.
 
 2. Clone the repository:
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+https://github.com/sharvari-nene/Text-Editor 
 
 3. Open in IDE:
 Open the project in your favorite Java IDE (like IntelliJ IDEA or Eclipse).
