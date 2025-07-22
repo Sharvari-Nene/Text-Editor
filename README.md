@@ -10,7 +10,7 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 <img width="635" height="616" alt="open" src="https://github.com/user-attachments/assets/64e654a6-5c9a-4d84-ac5a-b20afb40ebc7" />
 
 # ✨ Key Features
-📄 File Operations: Open,Save and Exit text files.
+📄 File Operations: Open, Save and Exit text files.
 
 ✂️ Clipboard Actions: Standard Cut, Copy, and Paste functionality.
 
@@ -21,7 +21,7 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 # 🛠️ Technology Stack
 Core Language: Java
 
-GUI Framework: JavaFX and Java Swing
+GUI Framework: Java Swing
 
 IDE: IntelliJ IDEA / Eclipse
 
