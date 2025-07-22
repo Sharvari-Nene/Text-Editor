@@ -21,7 +21,7 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 # 🛠️ Technology Stack
 Core Language: Java
 
-GUI Framework: JavaFX
+GUI Framework: Java Swing
 
 IDE: IntelliJ IDEA / Eclipse
 
