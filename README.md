@@ -29,10 +29,9 @@ IDE: IntelliJ IDEA / Eclipse
 
 1. Prerequisites:
 Java Development Kit (JDK) 11 or higher must be installed on your system.
-(If using JavaFX) JavaFX SDK must be configured in your IDE.
 
 2. Clone the repository:
-https://github.com/sharvari-nene/Text-Editor 
+https://github.com/sharvari-nene/Text-Editor.git
 
 3. Open in IDE:
 Open the project in your favorite Java IDE (like IntelliJ IDEA or Eclipse).
