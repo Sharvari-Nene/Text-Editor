@@ -31,7 +31,7 @@ IDE: IntelliJ IDEA / Eclipse
 Java Development Kit (JDK) 11 or higher must be installed on your system.
 
 2. Clone the repository:
-https://github.com/sharvari-nene/Text-Editor.git
+git clone [github.com/sharvari-nene/Text_Editor.git](https://github.com/sharvari-nene/Text_Editor)
 
 3. Open in IDE:
 Open the project in your favorite Java IDE (like IntelliJ IDEA or Eclipse).
